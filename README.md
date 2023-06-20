@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3 align="left"><b>⭐️ About me: ⭐️ </b></h3>
-🔶 I am an undergraduate student with almost 2 years of full-time work as a fullstack Data-AI
+🔶 I am an undergraduate student with almost 2 years of full-time work as a full-stack Data-AI
 
 🔶 Fast access to new technology; proactive learning; teamwork; and sharing are keys to any growth for me.
 
