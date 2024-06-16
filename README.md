@@ -8,16 +8,26 @@
 I am passionate about dealing with data, advanced analytics, and driving decisions through data-driven insights. With a strong belief in continuous learning, I am always eager to explore new technologies and methodologies. I firmly believe that this commitment to learning enables me to evolve, contributing value to both my team and the organization.
 
 <h3 align="left"><b>⭐️ Experience: ⭐️ </b></h3>
-• Experience in building and work with Data Platforms.
+🔶 Experience in building and work with Data Platforms.
+
  - Proficient in architecting and working with both online and offline data.
+   
  - Designed and implemented stream and batch data pipelines to efficiently process and analyze large volumes of data.
-• Workflow Automation:
+
+🔶  Workflow Automation:
+
  - Experience in developing automation workflows to streamline communication and collaboration between stakeholders.
-• Advanced Analytics, recommendation systems:
+
+🔶 Advanced Analytics, recommendation systems:
+
  - Developed mathematical algorithms for scoring and trending systems based on user behavior and interaction data.
+ 
  - Specialized in building recommendation systems, including social media-based tour recommendations and friend suggestions using graph embedding techniques.
-• AI Product Development:
+   
+🔶 AI Product Development:
+
  - Leveraged PhoBERT for building language moderation systems to ensure user safety and content integrity.
+  
  - Utilized Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) models to build generative AI chatbots.
 
 Tech Stacks: Airflow, Kafka, dbt, BigQuery, Looker, VertexAI, GCP.
