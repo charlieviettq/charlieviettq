@@ -50,11 +50,11 @@ Tech Stacks: Airflow, Kafka, dbt, BigQuery, Looker, VertexAI, GCP.
 
 🔶Technology: 
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/kafka-logo-wide.png?ssl=1" alt="kafka" width="80" height="40"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png" alt="airflow" width="160" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.ecured.cu/images/thumb/f/fa/Logo-mongodb.png/1200px-Logo-mongodb.png" alt="mongodb" width="100" height="40"/> </a>
-<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="160" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://infolinks.cloud/vn/wp-content/uploads/2023/08/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" alt="google cloud platform" width="160" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://mikaelahonen.com/img/vertex-ai-google-cloud.png" alt="google cloud vertexai" width="160" height="40"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png" alt="airflow" width="160" height="120"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.ecured.cu/images/thumb/f/fa/Logo-mongodb.png/1200px-Logo-mongodb.png" alt="mongodb" width="100" height="100"/> </a>
+<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="160" height="120"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://infolinks.cloud/vn/wp-content/uploads/2023/08/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" alt="google cloud platform" width="160" height="120"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://mikaelahonen.com/img/vertex-ai-google-cloud.png" alt="google cloud vertexai" width="160" height="120"/> </a>
 
 
 [//]: # (<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  )
