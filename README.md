@@ -49,9 +49,9 @@ Tech Stacks: Airflow, Kafka, dbt, BigQuery, Looker, VertexAI, GCP.
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 🔶Technology: 
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/kafka-logo-wide.png?ssl=1" alt="docker" width="80" height="40"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://aptitive.com/wp-content/uploads/2019/10/Apache-Airflow.png](https://media.licdn.com/dms/image/C4E12AQFol46eeOw7tw/article-cover_image-shrink_720_1280/0/1609364911502?e=2147483647&v=beta&t=ZgXkoBUEId02HiRhQBByUb7ZpZQffw0NxKC1ycv06JA)" alt="docker" width="160" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.ecured.cu/images/thumb/f/fa/Logo-mongodb.png/1200px-Logo-mongodb.png" alt="apache" width="100" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/kafka-logo-wide.png?ssl=1" alt="kafka" width="80" height="40"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.sicara.fr/hubfs/Copy%20of%20dimension%20site%20%20%2816%29.jpg" alt="docker" width="160" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.ecured.cu/images/thumb/f/fa/Logo-mongodb.png/1200px-Logo-mongodb.png" alt="mongodb" width="100" height="40"/> </a>
 
 [//]: # (<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  )
 
