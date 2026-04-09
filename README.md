@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Tr%E1%BA%A7n+Qu%E1%BB%91c+Vi%E1%BB%87t+%7C+Charlie;Data+%2B+ML+%2B+GenAI+Engineer;Airflow+%7C+dbt+%7C+BigQuery+%7C+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Tr%E1%BA%A7n+Qu%E1%BB%91c+Vi%E1%BB%87t+%7C+Charlie;Data+%2B+ML+%2B+GenAI+Engineer;Airflow+%7C+dbt+%7C+BigQuery+%7C+GCP" alt="Typing SVG" />
+
+[![Profile](https://img.shields.io/badge/GitHub-charlieviettq-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlieviettq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
 
 **Analytics · Data Platform · Machine Learning · GenAI**
 
-[![Location](https://img.shields.io/badge/📍-Ho_Chi_Minh_City-1f6f8?style=flat-square)](https://www.google.com/maps/place/Ho+Chi+Minh+City)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
-[![Profile views](https://komarev.com/ghpvc/?username=charlieviettq&label=Views&color=0e75b6&style=flat-square)](https://github.com/charlieviettq)
+[![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-1f6f8?style=flat-square)](https://www.google.com/maps/place/Ho+Chi+Minh+City)
+[![Profile views](https://komarev.com/ghpvc/?username=charlieviettq&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/charlieviettq)
 
 </div>
 
@@ -50,31 +52,44 @@ I build **data platforms**, **ML systems**, and **AI products** end to end — f
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=charlieviettq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlieviettq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=charlieviettq&theme=tokyonight&hide_border=true" alt="Streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=charlieviettq&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" width="100%" />
 </p>
 
 ---
 
-### Pinned ideas — forks I’m tracking (trending upstreams)
+<details>
+<summary><b>Pinned repos & profile checklist</b> (click to expand)</summary>
 
-My own public originals are a bit dated; until I share newer work, **pin these forks** ([repos → Customize your pins](https://github.com/charlieviettq?tab=repositories)) — all are active upstreams I follow (⭐ on parent repo as of last refresh):
+| My fork | Upstream | Topic |
+|---------|----------|--------|
+| [**browser-use**](https://github.com/charlieviettq/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) | AI agents + browser |
+| [**deer-flow**](https://github.com/charlieviettq/deer-flow) | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Agent harness |
+| [**TradingAgents**](https://github.com/charlieviettq/TradingAgents) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Multi-agent finance |
+| [**strix**](https://github.com/charlieviettq/strix) | [usestrix/strix](https://github.com/usestrix/strix) | AI security testing |
+| [**agentscope**](https://github.com/charlieviettq/agentscope) | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Observable agents |
+| [**Viet-ERP**](https://github.com/charlieviettq/Viet-ERP) | [nclamvn/Viet-ERP](https://github.com/nclamvn/Viet-ERP) | Vietnam OSS ERP |
 
-| My fork | Upstream (trending) | Topic |
-|---------|---------------------|--------|
-| [**browser-use**](https://github.com/charlieviettq/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) (~86k ⭐) | AI agents driving the browser |
-| [**deer-flow**](https://github.com/charlieviettq/deer-flow) | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (~60k ⭐) | Research / code / create — agent harness |
-| [**TradingAgents**](https://github.com/charlieviettq/TradingAgents) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) (~49k ⭐) | Multi-agent LLM finance — adjacent to risk / markets DS |
-| [**strix**](https://github.com/charlieviettq/strix) | [usestrix/strix](https://github.com/usestrix/strix) (~23k ⭐) | OSS AI for app security testing |
-| [**agentscope**](https://github.com/charlieviettq/agentscope) | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) (~23k ⭐) | Observable multi-agent framework |
-| [**Viet-ERP**](https://github.com/charlieviettq/Viet-ERP) | [nclamvn/Viet-ERP](https://github.com/nclamvn/Viet-ERP) (~0.5k ⭐) | Open ERP for Vietnam — regional OSS I’m watching |
+**Pin these 6** on your profile: [Repositories](https://github.com/charlieviettq?tab=repositories) → **Customize your pins** (GitHub has no public API for pins). Optional: swap **Viet-ERP** for [**PPG-signal-classification**](https://github.com/charlieviettq/PPG-signal-classification) to highlight original ML work.
+
+**Bio / avatar / social (manual in [Settings → Public profile](https://github.com/settings/profile)):**
+
+- Suggested bio (copy-paste): `Data · ML · GenAI | Credit risk DS, dbt/BigQuery/GCP, agents & RAG | HCMC · Open to collaboration`
+- Or sync via CLI after: `gh auth refresh -h github.com -s user` then `gh api user -X PATCH -f bio='…'`
+- Upload a clear **profile picture**; add **LinkedIn** under Social accounts.
+
+</details>
 
 ---
 
-### Recognition
+<details>
+<summary><b>Recognition</b></summary>
 
 - Top 10 scholarships — Bình Định province  
 - 100% scholarship — FPT University  
+
+</details>
 
 ---
 
@@ -86,15 +101,13 @@ My own public originals are a bit dated; until I share newer work, **pin these f
   <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/charlieviettq/charlieviettq/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<sub>Animation is generated by GitHub Actions; if it does not load yet, trigger the workflow or wait for the first scheduled run.</sub>
+<sub>Generated by GitHub Actions on branch <code>output</code>; rerun workflow if the image is missing.</sub>
 
 ---
 
 <div align="center">
 
-**Reach me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aivietqt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
+**Reach me** — [LinkedIn / aivietqt](https://www.linkedin.com/in/aivietqt/)
 
 *Your heart knows your truth.*
 
