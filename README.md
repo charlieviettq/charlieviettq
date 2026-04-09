@@ -14,14 +14,15 @@
 
 ### About
 
-I build **data platforms**, **ML systems**, and **AI products** end to end — from batch/stream pipelines and dimensional models to model training, API deployment, and LLM-powered experiences. I care about observability, security around data & prompts, and shipping things that teams can operate.
+I build **data platforms**, **ML systems**, and **AI products** end to end — from batch/stream pipelines and dimensional models to model training, API deployment, and LLM-powered experiences. I care about observability, security around data & prompts, and shipping things teams can operate in regulated environments.
 
 ---
 
 ### Focus
 
 - **Data engineering & analytics** — Airflow, **dbt**, **BigQuery**, streaming/batch patterns, ELT, data quality.
-- **Machine learning** — credit/risk-style scoring, **AutoML** workflows (e.g. Feast, AutoGluon, XGBoost), feature store patterns, model serving APIs.
+- **Data Science — credit scoring & retail risk** — end-to-end modeling for **application / behavioral credit risk**: feature design from raw and curated marts, **WOE/IV**-style explorations where appropriate, **scorecards** and **gradient boosting** (e.g. XGBoost), calibration and **decision-threshold** tradeoffs, **train–validation–OOT** setup, population stability / **drift** monitoring, and **API-based scoring** in production. Experience alongside **AutoML** and **feature-store** patterns (Feast, reproducible training configs, backtesting).
+- **Machine learning (broader)** — **AutoML** (AutoGluon, XGBoost pipelines), feature store integration, model serving APIs, anomaly / monitoring patterns.
 - **GenAI & agents** — **RAG**, multi-agent routing, NL→SQL / analytics assistants, integration with vector stores (**PostgreSQL / pgvector**), **Vertex AI** / LiteLLM-style gateways, Langfuse-style observability.
 - **Cloud & platform** — **GCP** (Pub/Sub, BigQuery, …), **Terraform** (GCP / Azure AD / DB / Vault), Dockerized services.
 - **Voice & search (side builds)** — real-time voice stacks (**LiveKit**, Pipecat), Gemini / Azure OpenAI; **OpenSearch** & Vietnamese text analysis.
@@ -55,18 +56,18 @@ I build **data platforms**, **ML systems**, and **AI products** end to end — f
 
 ---
 
-### Featured repositories
+### Pinned ideas — forks I’m tracking (trending upstreams)
 
-Highlights — **Customize your pins** ([repos tab](https://github.com/charlieviettq?tab=repositories)) with up to six of these (ML / CV / DL / NLP):
+My own public originals are a bit dated; until I share newer work, **pin these forks** ([repos → Customize your pins](https://github.com/charlieviettq?tab=repositories)) — all are active upstreams I follow (⭐ on parent repo as of last refresh):
 
-| Repository | Notes |
-|------------|-------|
-| [**PPG-signal-classification**](https://github.com/charlieviettq/PPG-signal-classification) | PPG signal classification |
-| [**ABC-Automatic_Background_Change**](https://github.com/charlieviettq/ABC-Automatic_Background_Change) | Computer vision — automatic background |
-| [**ID-card-recognition**](https://github.com/charlieviettq/ID-card-recognition) | ID card OCR |
-| [**BookRecommendationSytem**](https://github.com/charlieviettq/BookRecommendationSytem) | Book recommendations |
-| [**Evaluate-Lazada-Tiki-Comment**](https://github.com/charlieviettq/Evaluate-Lazada-Tiki-Comment) | E‑commerce comment NLP |
-| [**Deep-Learning-with-Pytorch**](https://github.com/charlieviettq/Deep-Learning-with-Pytorch) | PyTorch deep learning |
+| My fork | Upstream (trending) | Topic |
+|---------|---------------------|--------|
+| [**browser-use**](https://github.com/charlieviettq/browser-use) | [browser-use/browser-use](https://github.com/browser-use/browser-use) (~86k ⭐) | AI agents driving the browser |
+| [**deer-flow**](https://github.com/charlieviettq/deer-flow) | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (~60k ⭐) | Research / code / create — agent harness |
+| [**TradingAgents**](https://github.com/charlieviettq/TradingAgents) | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) (~49k ⭐) | Multi-agent LLM finance — adjacent to risk / markets DS |
+| [**strix**](https://github.com/charlieviettq/strix) | [usestrix/strix](https://github.com/usestrix/strix) (~23k ⭐) | OSS AI for app security testing |
+| [**agentscope**](https://github.com/charlieviettq/agentscope) | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) (~23k ⭐) | Observable multi-agent framework |
+| [**Viet-ERP**](https://github.com/charlieviettq/Viet-ERP) | [nclamvn/Viet-ERP](https://github.com/nclamvn/Viet-ERP) (~0.5k ⭐) | Open ERP for Vietnam — regional OSS I’m watching |
 
 ---
 
