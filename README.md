@@ -1,87 +1,100 @@
-### Xin chào (Hi there) 👋, I'm ✨Trần Quốc Việt✨, 
-#### Analytics Engineer • Data Engineer • Machine Learning Engineer
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Tr%E1%BA%A7n+Qu%E1%BB%91c+Vi%E1%BB%87t+%7C+Charlie;Data+%2B+ML+%2B+GenAI+Engineer;Airflow+%7C+dbt+%7C+BigQuery+%7C+GCP" alt="Typing SVG" />
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+**Analytics · Data Platform · Machine Learning · GenAI**
 
-<h3 align="left"><b>⭐️ About me: ⭐️ </b></h3>
-I am passionate about dealing with data, advanced analytics, and driving decisions through data-driven insights. With a strong belief in continuous learning, I am always eager to explore new technologies and methodologies. I firmly believe that this commitment to learning enables me to evolve, contributing value to both my team and the organization.
+[![Location](https://img.shields.io/badge/📍-Ho_Chi_Minh_City-1f6f8?style=flat-square)](https://www.google.com/maps/place/Ho+Chi+Minh+City)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
+[![Profile views](https://komarev.com/ghpvc/?username=charlieviettq&label=Views&color=0e75b6&style=flat-square)](https://github.com/charlieviettq)
 
-<h3 align="left"><b>⭐️ Experience: ⭐️ </b></h3>
-🔶 Experience in building and work with Data Platforms.
+</div>
 
- - Proficient in architecting and working with both online and offline data.
-   
- - Designed and implemented stream and batch data pipelines to efficiently process and analyze large volumes of data.
+---
 
-🔶  Workflow Automation:
+### About
 
- - Experience in developing automation workflows to streamline communication and collaboration between stakeholders.
+I build **data platforms**, **ML systems**, and **AI products** end to end — from batch/stream pipelines and dimensional models to model training, API deployment, and LLM-powered experiences. I care about observability, security around data & prompts, and shipping things that teams can operate.
 
-🔶 Advanced Analytics, recommendation systems:
+---
 
- - Developed mathematical algorithms for scoring and trending systems based on user behavior and interaction data.
- 
- - Specialized in building recommendation systems, including social media-based tour recommendations and friend suggestions using graph embedding techniques.
-   
-🔶 AI Product Development:
+### Focus
 
- - Leveraged PhoBERT for building language moderation systems to ensure user safety and content integrity.
-  
- - Utilized Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) models to build generative AI chatbots.
+- **Data engineering & analytics** — Airflow, **dbt**, **BigQuery**, streaming/batch patterns, ELT, data quality.
+- **Machine learning** — credit/risk-style scoring, **AutoML** workflows (e.g. Feast, AutoGluon, XGBoost), feature store patterns, model serving APIs.
+- **GenAI & agents** — **RAG**, multi-agent routing, NL→SQL / analytics assistants, integration with vector stores (**PostgreSQL / pgvector**), **Vertex AI** / LiteLLM-style gateways, Langfuse-style observability.
+- **Cloud & platform** — **GCP** (Pub/Sub, BigQuery, …), **Terraform** (GCP / Azure AD / DB / Vault), Dockerized services.
+- **Voice & search (side builds)** — real-time voice stacks (**LiveKit**, Pipecat), Gemini / Azure OpenAI; **OpenSearch** & Vietnamese text analysis.
 
-Tech Stacks: Airflow, Kafka, dbt, BigQuery, Looker, VertexAI, GCP.
-<h3 align="left"><b>⭐️ My award: ⭐️ </b></h3>
-🔶 Top 10 scholarships of Binh Dinh province.
+---
 
-🔶 100% scholarship at FPT University.
+### Tech I often work with
 
-[//]: # (- ⚡ Fun fact: I am a hardcore casual gamer too 🎮 [SteamID]&#40;https://steamcommunity.com/id/Asher_13th&#41;)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres,redis,gcp,terraform,linux,git&perline=9" alt="Core stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/GenAI_%26_RAG-7C3AED?style=for-the-badge" alt="GenAI RAG" />
+  <img src="https://img.shields.io/badge/LiveKit-FF0000?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlieviettq&label=Profile%20views&color=0e75b6&style=flat-square" alt="charlieviettq" /> </p>
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Your heart knows your truth</b> 😊</em>
+### GitHub stats
 
-<h3 align="left"><b>⭐️ My expertise ⭐️ </b></h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charlieviettq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlieviettq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=charlieviettq&theme=tokyonight&hide_border=true" alt="Streak stats" />
+</p>
 
-<p align="left"> 
-🔶Programing Language: 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+---
 
-🔶Technology: 
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/kafka-logo-wide.png?ssl=1" alt="kafka" width="80" height="40"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png" alt="airflow" width="60" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.ecured.cu/images/thumb/f/fa/Logo-mongodb.png/1200px-Logo-mongodb.png" alt="mongodb" width="80" height="40"/> </a>
-<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="60" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://infolinks.cloud/vn/wp-content/uploads/2023/08/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" alt="google cloud platform" width="80" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://mikaelahonen.com/img/vertex-ai-google-cloud.png" alt="google cloud vertexai" width="80" height="40"/> </a>
+### Featured repositories
 
+Highlights — **Customize your pins** ([repos tab](https://github.com/charlieviettq?tab=repositories)) with up to six of these (ML / CV / DL / NLP):
 
-[//]: # (<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  )
+| Repository | Notes |
+|------------|-------|
+| [**PPG-signal-classification**](https://github.com/charlieviettq/PPG-signal-classification) | PPG signal classification |
+| [**ABC-Automatic_Background_Change**](https://github.com/charlieviettq/ABC-Automatic_Background_Change) | Computer vision — automatic background |
+| [**ID-card-recognition**](https://github.com/charlieviettq/ID-card-recognition) | ID card OCR |
+| [**BookRecommendationSytem**](https://github.com/charlieviettq/BookRecommendationSytem) | Book recommendations |
+| [**Evaluate-Lazada-Tiki-Comment**](https://github.com/charlieviettq/Evaluate-Lazada-Tiki-Comment) | E‑commerce comment NLP |
+| [**Deep-Learning-with-Pytorch**](https://github.com/charlieviettq/Deep-Learning-with-Pytorch) | PyTorch deep learning |
 
-[//]: # (🔶RDBMS: )
-[//]: # (<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> )
+---
 
-[//]: # (🔶Visualization: )
+### Recognition
 
-[//]: # (<a href="https://superset.apache.org/" target="_blank"> <img src="https://www.freney.com/images/supersetcolor.png" alt="superset" width="40" height="40"/> </a>)
+- Top 10 scholarships — Bình Định province  
+- 100% scholarship — FPT University  
 
-[//]: # (<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.svgrepo.com/show/306593/powerbi.svg" alt="powerbi" width="40" height="40"/> </a> )
-[//]: # (<a href="https://www.tableau.com/" target="_blank"> <img src="https://www.svgrepo.com/show/306830/tableau.svg" alt="tableau" width="40" height="40"/> </a> )
+---
 
- </p>
+### Snake (contributions)
 
-<h3 align="left">Reach me at:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aivietqt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/aivietqt/" height="30" width="40" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlieviettq/charlieviettq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlieviettq/charlieviettq/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/charlieviettq/charlieviettq/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
+<sub>Animation is generated by GitHub Actions; if it does not load yet, trigger the workflow or wait for the first scheduled run.</sub>
 
-<h3 align="left">Github stats</h3>
+---
 
-![image alt >](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieviettq&theme=tokyonight&count_private=true)
-![image alt <](https://github-readme-stats.vercel.app/api/?username=charlieviettq&theme=tokyonight&count_private=true)
+<div align="center">
 
+**Reach me**
 
-[//]: # (<h3 align="left">Profile Trophies</h3>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aivietqt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
 
-[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=KoiDev13&#41;]&#40;https://github.com/KoiDev13/github-profile-trophy&#41;/)
+*Your heart knows your truth.*
+
+</div>
