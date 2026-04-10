@@ -4,6 +4,7 @@
 
 [![Profile](https://img.shields.io/badge/GitHub-charlieviettq-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlieviettq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
+[![Site — Blog](https://img.shields.io/badge/Site_%26_Blog-charlieviettq.github.io-0F766E?style=for-the-badge)](https://charlieviettq.github.io/)
 
 **Analytics · Data Platform · Machine Learning · GenAI**
 
@@ -76,7 +77,8 @@ I build **data platforms**, **ML systems**, and **AI products** end to end — f
 **Bio / avatar / social (manual in [Settings → Public profile](https://github.com/settings/profile)):**
 
 - Suggested bio (copy-paste): `Data · ML · GenAI | Credit risk DS, dbt/BigQuery/GCP, agents & RAG | HCMC · Open to collaboration`
-- Or sync via CLI after: `gh auth refresh -h github.com -s user` then `gh api user -X PATCH -f bio='…'`
+- **Website (blog / landing):** https://charlieviettq.github.io/ — paste into Profile **Website** field.
+- Or sync via CLI after: `gh auth refresh -h github.com -s user` then `gh api user -X PATCH -f bio='…' -f blog='https://charlieviettq.github.io/'`
 - Upload a clear **profile picture**; add **LinkedIn** under Social accounts.
 
 </details>
