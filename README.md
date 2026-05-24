@@ -23,50 +23,26 @@ I ship **credit scoring** end to end — from curated marts and **feature design
 
 ---
 
-### Focus (aligned with [my blog](https://charlieviettq.github.io/blog/))
+### Focus
 
-- **Credit scoring & risk** — Scorecards, **WOE / IV**, **XGBoost**, calibration & **decision thresholds**, **train–val–OOT**, **reject inference**, **champion–challenger**, drift / stability, **Feast**-style feature views, **CakeAutoML** pipelines, API-based scoring.
-- **GenAI & agents** — **RAG** (retrieval, eval, guardrails), **multi-agent routing**, NL→SQL / analytics assistants, **Vertex AI** / gateway patterns, **Langfuse**-style observability; **BeGuru AI** docs: runtime (FastAPI / AgentOS), **memory & context**, **Mem0**, sandbox / isolation, design system & artifacts.
-- **Data engineering** — **Airflow** DAG quality (idempotency, SLAs), **dbt** tests & docs as contracts, **BigQuery**, Kafka-style streaming + batch ELT, data quality.
-- **Data science (foundations)** — Exploratory strength & stability for credit features; clear cohort documentation for backtests and handoffs.
+**Credit scoring & risk** (primary)
 
----
+- End-to-end: feature design, **CakeAutoML** training, **train–val–OOT**, production scoring APIs.
+- Models & methods: scorecards, **WOE / IV**, **XGBoost**, calibration, **decision thresholds**, **reject inference**, **champion–challenger**.
+- Operations: monitoring (**Gini**, **KS**, **PSI**), drift / stability, **Feast**-style feature views.
 
-### Recent writing
+**GenAI & agents**
 
-Bilingual **VI / EN** posts on **[charlieviettq.github.io](https://charlieviettq.github.io/)** (same themes as the site’s categories: **Banking**, **Gen AI**, **Data Science**, **Data Engineering**).
+- **RAG** (retrieval, eval, guardrails), **multi-agent routing**, NL→SQL / analytics assistants.
+- **Vertex AI** / gateway patterns, **Langfuse**-style observability.
+- **BeGuru AI**: runtime (FastAPI / AgentOS), memory & context, sandbox / isolation.
 
-**Banking / credit risk**
+**Data platform**
 
-- [Champion–Challenger: Cách prove model mới mà không cần đặt cược toàn bộ](https://charlieviettq.github.io/blog/banking-champion-challenger/)
-- [Gini, KS, PSI: Ba câu hỏi mà mọi model credit risk cần trả lời](https://charlieviettq.github.io/blog/banking-model-monitoring-metrics/)
-- [Reject Inference: Mô hình của bạn chưa bao giờ nhìn thấy người bị từ chối](https://charlieviettq.github.io/blog/banking-reject-inference/)
-- [Scorecard tín dụng: Tại sao ngân hàng vẫn dùng mô hình từ thập niên 80?](https://charlieviettq.github.io/blog/banking-scorecard-building/)
-- [XGBoost cho newbie: 1 input đi qua tree như thế nào?](https://charlieviettq.github.io/blog/banking-xgboost-newbie-flow/)
-- [Từ con số đến quyết định: Khi dữ liệu bắt đầu 'nói chuyện' với tiền](https://charlieviettq.github.io/blog/banking-from-score-to-decision/)
-- [Hành trình của một khoản vay: Khi dữ liệu kể chuyện về lòng tin](https://charlieviettq.github.io/blog/banking-credit-lifecycle-ml/)
+- **Airflow** DAG quality (idempotency, SLAs), **dbt** tests & docs as contracts, **BigQuery**, streaming + batch ELT.
+- Credit feature EDA: strength, stability, cohort documentation for backtests and handoffs.
 
-**Gen AI**
-
-- [BeGuru AI — Technical Docs: Mem0, cross-session memory & lộ trình tích hợp](https://charlieviettq.github.io/blog/beguru-ai-mem0-integration-architecture/)
-- [BeGuru AI — Technical Docs: Memory, nén history & tầng context](https://charlieviettq.github.io/blog/beguru-ai-case-study-memory-context-layers/)
-- [BeGuru AI — Technical Narrative: mental model, runtime & state](https://charlieviettq.github.io/blog/beguru-ai-technical-narrative/)
-- [BeGuru AI — Technical Docs: Runtime FastAPI, AgentOS, routers](https://charlieviettq.github.io/blog/beguru-ai-case-study-runtime-fastapi-agentos/)
-- [BeGuru AI — Technical Docs: Tổng quan kiến trúc (runtime, agent, đĩa)](https://charlieviettq.github.io/blog/beguru-ai-architecture-overview/)
-- [BeGuru AI — AIO Sandbox: component thực thi cô lập (lộ trình)](https://charlieviettq.github.io/blog/beguru-ai-aio-sandbox-integration/)
-- [BeGuru AI — Technical Docs: Design system & artifact trên đĩa](https://charlieviettq.github.io/blog/beguru-ai-case-study-design-system-disk/)
-- [Đừng để AI nói dối: Câu chuyện về một 'Biên tập viên' RAG khó tính](https://charlieviettq.github.io/blog/genai-rag-eval-checklist/)
-- [Routing multi-agent: Người điều phối thông minh trong tòa nhà văn phòng](https://charlieviettq.github.io/blog/genai-agent-routing/)
-
-**Data science**
-
-- [OOT và Stability: 'Phanh an toàn' của mô hình rủi ro](https://charlieviettq.github.io/blog/ds-oot-and-stability/)
-- [WOE và IV: Nghệ thuật 'gạn đục khơi trong' cho dữ liệu tín dụng](https://charlieviettq.github.io/blog/ds-feature-woe-iv-intro/)
-
-**Data engineering**
-
-- [Chất lượng DAG Airflow: Đừng để Pipeline thành 'mớ bòng bong'](https://charlieviettq.github.io/blog/de-airflow-dag-quality/)
-- [dbt Testing & Docs: Bản hợp đồng của dữ liệu sạch](https://charlieviettq.github.io/blog/de-dbt-testing-docs/)
+More on **[charlieviettq.github.io](https://charlieviettq.github.io/)** when posts are ready.
 
 ---
 
