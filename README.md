@@ -19,7 +19,7 @@
 
 **Trần Quốc Việt (Charlie)** — **Data Scientist (Credit Scoring & ML)** @ **Cake by VPBank** (digital bank, HCMC).
 
-I ship **credit scoring** end to end — from curated marts and **feature design** to **AutoML-style training** (**CakeAutoML**), validation (**OOT / stability**), monitoring (**Gini, KS, PSI**), and **production scoring APIs**. I also build **GenAI** systems (**multi-agent**, **hybrid RAG**, eval & tracing) and the **data platform** underneath (**Airflow**, **dbt**, **BigQuery**, streaming/batch). I care about **observability**, **least-privilege data access**, and systems risk teams can **operate in regulated environments**.
+I ship **credit scoring** end to end — from curated marts and **feature design** to **AutoML-style training** (**CakeAutoML**), validation (**OOT / stability**), monitoring (**Gini, KS, PSI**), and **production scoring APIs**. I also build **GenAI** systems — **agent harnesses**, **memory & context engineering**, **hybrid RAG**, **agent skills / tool contracts**, eval & tracing — and the **data platform** underneath (**Airflow**, **dbt**, **BigQuery**, streaming/batch). I care about **observability**, **least-privilege data access**, and systems risk teams can **operate in regulated environments**.
 
 ---
 
@@ -31,11 +31,15 @@ I ship **credit scoring** end to end — from curated marts and **feature design
 - Models & methods: scorecards, **WOE / IV**, **XGBoost**, calibration, **decision thresholds**, **reject inference**, **champion–challenger**.
 - Operations: monitoring (**Gini**, **KS**, **PSI**), drift / stability, **Feast**-style feature views.
 
-**GenAI & agents**
+**GenAI & agents** (production-oriented, SOTA patterns)
 
-- **RAG** (retrieval, eval, guardrails), **multi-agent routing**, NL→SQL / analytics assistants.
-- **Vertex AI** / gateway patterns, **Langfuse**-style observability.
-- **BeGuru AI**: runtime (FastAPI / AgentOS), memory & context, sandbox / isolation.
+- **Agent harness** — orchestration, routing, tool loops, human-in-the-loop; multi-agent workflows (planner / executor / critic).
+- **Memory** — short- vs long-term stores, cross-session recall, summarization & compaction; patterns like **Mem0** and durable user/project state.
+- **Context engineering** — token budgets, prioritization, structured prompts, retrieval grounding, history compression without losing task state.
+- **Skills & tools** — **agent skills** (SKILL.md playbooks), **MCP** / function-calling contracts, idempotent tools, discoverability for LLM callers.
+- **RAG** — hybrid retrieval, reranking, eval harnesses, guardrails; NL→SQL / analytics assistants.
+- **Ops** — **Vertex AI** / gateway routing, **Langfuse**-style tracing; sandboxed execution where agents touch code or data.
+- **BeGuru AI** — FastAPI / **AgentOS** runtime, memory planes, artifacts on disk, design system for agent-built UI.
 
 **Data platform**
 
