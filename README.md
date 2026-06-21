@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Tr%E1%BA%A7n+Qu%E1%BB%91c+Vi%E1%BB%87t+%7C+Charlie;Data+Scientist+%C2%B7+Credit+Scoring+%26+ML;Airflow+%7C+dbt+%7C+BigQuery+%7C+GCP+%7C+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=Tr%E1%BA%A7n+Qu%E1%BB%91c+Vi%E1%BB%87t+%7C+Charlie;Data+Scientist+%C2%B7+Fintech+AI%2FML+Systems;Credit+Decisioning+%C2%B7+GenAI+Agents+%C2%B7+Data%2FML+Platform" alt="Typing SVG" />
 
 [![Profile](https://img.shields.io/badge/GitHub-charlieviettq-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charlieviettq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aivietqt/)
 [![Site — Blog](https://img.shields.io/badge/Site_%26_Blog-charlieviettq.github.io-0F766E?style=for-the-badge)](https://charlieviettq.github.io/)
 
-**Analytics · Data Platform · Machine Learning · GenAI**
+**Credit Decisioning · GenAI Agents · Data/ML Platform**
 
 [![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-1f6f8?style=flat-square)](https://www.google.com/maps/place/Ho+Chi+Minh+City)
 [![Profile views](https://komarev.com/ghpvc/?username=charlieviettq&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/charlieviettq)
@@ -17,36 +17,40 @@
 
 ### About
 
-**Trần Quốc Việt (Charlie)** — **Data Scientist (Credit Scoring & ML)** @ **Cake by VPBank** (digital bank, HCMC).
+**Trần Quốc Việt (Charlie)** — **Data Scientist building Fintech AI/ML Systems** @ **Cake by VPBank** (digital bank, HCMC).
 
-I ship **credit scoring** end to end — from curated marts and **feature design** to **AutoML-style training** (**CakeAutoML**), validation (**OOT / stability**), monitoring (**Gini, KS, PSI**), and **production scoring APIs**. I also build **GenAI** systems — **agent harnesses**, **memory & context engineering**, **hybrid RAG**, **agent skills / tool contracts**, eval & tracing — and the **data platform** underneath (**Airflow**, **dbt**, **BigQuery**, streaming/batch). I care about **observability**, **least-privilege data access**, and systems risk teams can **operate in regulated environments**.
+I build AI/ML systems for fintech decisions — from **credit decisioning** and **production scoring** to **GenAI agents**, customer automation, analytics agents, and the **data/ML platform** underneath. My deepest domain proof is credit scoring: **CakeAutoML**, label preparation, feature design, train/validation/OOT workflows, calibration, monitoring (**Gini, KS, PSI**), and handoff into production decision systems. I care about **observability**, **least-privilege data access**, and AI systems that risk and operations teams can actually run.
 
 ---
 
 ### Focus
 
-**Credit scoring & risk** (primary)
+**Credit Decision Science** (domain depth)
 
-- End-to-end: feature design, **CakeAutoML** training, **train–val–OOT**, production scoring APIs.
-- Models & methods: scorecards, **WOE / IV**, **XGBoost**, calibration, **decision thresholds**, **reject inference**, **champion–challenger**.
-- Operations: monitoring (**Gini**, **KS**, **PSI**), drift / stability, **Feast**-style feature views.
+- End-to-end scoring workflow: label preparation, feature design, **CakeAutoML** training, **train–val–OOT**, validation, and production scoring handoff.
+- Decisioning methods: scorecards, **WOE / IV**, **XGBoost**, **PD bands**, calibration, cutoffs, decision thresholds, reject inference, and champion-challenger.
+- Portfolio operations: monitoring (**Gini**, **KS**, **PSI**), drift / stability, model readouts, and **Feast**-style feature views.
 
-**GenAI & agents** (production-oriented, SOTA patterns)
+**GenAI & Agentic Systems** (production-oriented)
 
-- **Agent harness** — orchestration, routing, tool loops, human-in-the-loop; multi-agent workflows (planner / executor / critic).
-- **Memory** — short- vs long-term stores, cross-session recall, summarization & compaction; patterns like **Mem0** and durable user/project state.
-- **Context engineering** — token budgets, prioritization, structured prompts, retrieval grounding, history compression without losing task state.
-- **Skills & tools** — **agent skills** (SKILL.md playbooks), **MCP** / function-calling contracts, idempotent tools, discoverability for LLM callers.
-- **RAG** — hybrid retrieval, reranking, eval harnesses, guardrails; NL→SQL / analytics assistants.
-- **Ops** — **Vertex AI** / gateway routing, **Langfuse**-style tracing; sandboxed execution where agents touch code or data.
-- **BeGuru AI** — FastAPI / **AgentOS** runtime, memory planes, artifacts on disk, design system for agent-built UI.
+- **Multi-agent workflows** — orchestration, routing, tool loops, supervisor patterns, and human-in-the-loop controls.
+- **RAG & analytics agents** — hybrid retrieval, reranking, NL→SQL, metadata discovery, charting workflows, eval harnesses, and guardrails.
+- **Agent skills & tools** — **SKILL.md** playbooks, **MCP** / function-calling contracts, idempotent tools, and discoverability for LLM callers.
+- **Context & memory** — token budgets, prioritization, retrieval grounding, history compression, and durable user/project state.
+- **Ops** — **Vertex AI** / gateway routing, **Langfuse**-style tracing, monitoring, and sandboxed execution where agents touch code or data.
 
-**Data platform**
+**Data & ML Platform**
 
-- **Airflow** DAG quality (idempotency, SLAs), **dbt** tests & docs as contracts, **BigQuery**, streaming + batch ELT.
-- Credit feature EDA: strength, stability, cohort documentation for backtests and handoffs.
+- **Airflow**, **dbt**, **BigQuery**, **Kafka**, **Doris**, and streaming + batch ELT for analytics, automation, and scoring workloads.
+- Feature-store patterns with **Feast**, production scoring workflows, DAG orchestration, data contracts, and repeatable model pipelines.
+- Credit feature EDA: predictive strength, stability, cohort documentation, backtests, and stakeholder-ready handoffs.
 
-More on **[charlieviettq.github.io](https://charlieviettq.github.io/)** when posts are ready.
+**Governance & Monitoring**
+
+- Model validation: train/validation/OOT, calibration checks, score stability, drift monitoring, and portfolio KPI readouts.
+- Operational controls: observability, eval/tracing, least-privilege access, and workflows that business, risk, and operations teams can inspect.
+
+More on **[charlieviettq.github.io](https://charlieviettq.github.io/)** — essays and tutorials on credit risk modeling, decisioning, and production AI.
 
 ---
 
@@ -101,7 +105,7 @@ More on **[charlieviettq.github.io](https://charlieviettq.github.io/)** when pos
 
 **Bio / avatar / social (manual in [Settings → Public profile](https://github.com/settings/profile)):**
 
-- Suggested bio (copy-paste): `Data Scientist · Credit Scoring & ML | Cake by VPBank | dbt/BigQuery/GCP, agents & RAG | HCMC · Open to collaboration`
+- Suggested bio (copy-paste): `Data Scientist · Fintech AI/ML Systems | Credit Decisioning, GenAI agents, Data/ML Platform | Cake by VPBank | HCMC`
 - **Website (blog / landing):** https://charlieviettq.github.io/ — paste into Profile **Website** field.
 - Or sync via CLI after: `gh auth refresh -h github.com -s user` then `gh api user -X PATCH -f bio='…' -f blog='https://charlieviettq.github.io/'`
 - Upload a clear **profile picture**; add **LinkedIn** under Social accounts.
